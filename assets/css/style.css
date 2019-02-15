@@ -1,0 +1,149 @@
+body {
+    background-image: url("../images/confectionary.png");
+    z-index: 0;
+
+}
+    
+.title {
+    border: 3px solid #cccccc;
+    padding: 10px 10px 10px 20px;
+    z-index: 1;
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
+
+.width-margin {
+    margin-top: -2px;
+    border: 3px solid #cccccc;
+    padding: 20px 20px 50px 20px;
+    z-index: 1;
+    background-color: #ffffff;
+    height: 500px;
+}
+
+#pic {
+    position: relative;
+    float: left;
+    padding: 0px 10px 0px 0px;
+
+}
+
+
+.btn {
+    background-color: #4aaaa5
+}
+
+
+#Hangman {
+    float:left;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+
+#Hangmantag {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding: 0px 45px 0px 80px;
+    position: absolute;
+    text-align: center;
+
+}
+
+
+#PGgame {
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#gamertag {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 30px;
+    padding: 0px 13px 0px 15px;
+    position: absolute;
+    text-align: center;
+
+
+}
+
+#RockPaperScissors {
+    margin-top: 30px;
+    margin-right: 340px;
+    float: right;
+}
+
+#RockPapertag {
+    float: left;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 12px;
+    margin-top: 100px;
+    margin left: 300px;
+    position: absolute;
+    text-align: center;
+    padding: 0px 38px 0px 40px;
+
+}
+
+#TriviaGame {
+    margin-left: 20px;
+    margin-top: 60px;
+    float: left;
+}
+
+#TriviaGametag {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 12px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 0px;
+    position: absolute;
+    text-align: center; 
+    padding: 0px 45px 0px 45px;
+}
+
+#RutgersInfoWidget {
+    float: left;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+#RutgersInfotag {
+    float: left;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 0px;
+    position: absolute;
+    text-align: center;
+    padding: 0px 26px 0px 28px;
+    
+}
+
+
+.pagefooter {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    background: #666666;
+    position: fixed;
+    border-top: 7px solid #4aaaa5;
+    color: #ffffff;
+
+}
+
+.footer-block {
+    margin: 20px 0;
+
+}
